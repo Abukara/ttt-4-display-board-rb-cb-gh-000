@@ -8,5 +8,5 @@ def display_board(board)
   print  "-----------\n"
   print  " #{board[7]} | #{board[8]} | #{board[9]} \n"
 end
-üöay_board = [" "," "," "," "," "," "," "," "," "]
+üöay_board = [" "," ","X"," "," "," "," "," "," "]
 display_board(üöay_board)
